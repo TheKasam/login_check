@@ -1,4 +1,4 @@
-Uses twillo to cross check two google sheets for matching values.
+Uses gspread to cross check two google sheets for matching values.
 Use Case: Sign in people using a google form to check if respondant is a member / rsvp. The results will be displayed on a column of the *Sign In* sheet from the google form.
 
 Getting set up and running script:-
